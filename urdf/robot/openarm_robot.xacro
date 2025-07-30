@@ -35,7 +35,7 @@
             right_can_interface:='can0'
             left_arm_prefix:='left_'
             right_arm_prefix:='right_'
-            mesh_ext:='dae'
+            mesh_ext:='obj'
             ">
 
     <xacro:include filename="$(find openarm_description)/urdf/arm/openarm_macro.xacro" />

@@ -15,7 +15,7 @@
               inertials
               kinematics
               kinematics_link
-              mesh_ext:='dae'
+              mesh_ext:='obj'
               ">
 
     <!-- <xacro:property name="prefix" value="${'' if no_prefix else body_prefix + 'body_'}" /> -->
